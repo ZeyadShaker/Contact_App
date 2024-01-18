@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RouteContactApp</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">phone Number</string>
+    <string name="description">Description</string>
+    <string name="save">save</string>
+    <string name="contacts">Contacts</string>
+    <string name="Name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="Description">Description</string>
+    <string name="Save">Save</string>
+</resources>
